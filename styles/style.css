@@ -8,7 +8,7 @@
 
 h1.pagrindine-antraste {
     font-size: 50px;
-    color: rgb(51, 19, 197);
+    color: blue;
 }
 
 
@@ -17,6 +17,7 @@ h1.pagrindine-antraste {
 
 div.forma {
  background-color: grey; 
+    text-align: center;
 }
 
 
