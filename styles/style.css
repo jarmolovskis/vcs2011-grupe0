@@ -4,10 +4,11 @@
 
 
 
-/* Vardas1 stiliaus kodas: */
+/* Kazimiras stiliaus kodas: */
 
 h1.pagrindine-antraste {
-
+    font-size: 50px;
+    color: red;
 }
 
 
